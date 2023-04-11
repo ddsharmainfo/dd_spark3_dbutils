@@ -1,4 +1,3 @@
-[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
-[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/Users/dd.sharma/dev/DD_DBUtils_Spark3Scala2.12/project/"), "dd_dbutils_spark3scala2-12-build")...[0m
-[0m[[0m[33mwarn[0m] [0m[0mUnrecognized repository Scala Plugin Bundled Repository, ignoring it[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/Users/dd.sharma/dev/DD_DBUtils_Spark3Scala2.12/project/"), "dd_dbutils_spark3scala2-12-build")[0m
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/dd.sharma/dev/dd_spark3_dbutils/project/"), "dd_spark3_dbutils-build")...
+[debug] Done updating ProjectRef(uri("file:/Users/dd.sharma/dev/dd_spark3_dbutils/project/"), "dd_spark3_dbutils-build")
